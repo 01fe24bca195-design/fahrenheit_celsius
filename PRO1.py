@@ -1,3 +1,3 @@
-celsius = float(input("Enter temperature in Celsius: "))
+celsius = 25
 fahrenheit = (celsius * 9/5) + 32
-print("Temperature in Fahrenheit:", fahrenheit)
+print(fahrenheit)
